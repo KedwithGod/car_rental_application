@@ -26,4 +26,4 @@ samples, guidance on mobile development, and a full API reference.
   * Any IDE with Flutter SDK installed (ie. Android Studio, VSCode, IntelliJ, etc)
   * A little knowledge of Dart and Flutter
   * A brain to think 🤓🤓
-<img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/Screen Recording 2022-07-13 at 20.47.05.mov" width="300">
+<img src="https://github.com/punithraj14/Car-Rental-App/blob/master/screens/video.mov" width="300">
